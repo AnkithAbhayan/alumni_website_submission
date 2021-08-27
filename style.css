@@ -1,0 +1,82 @@
+@font-face {
+    font-family: "Epilogue";
+    font-weight: auto;
+    src: url('fonts/Epilogue-Light.ttf');
+}
+
+@font-face {
+    font-family: "Epilogue Light";
+    font-weight: auto;
+    src: url('fonts/Epilogue-ExtraLight.ttf');
+}
+
+
+body {
+    background-image: linear-gradient(120deg,
+        rgba(255, 255, 0, 0.75) 0%,
+        rgba(0, 255, 255, 0.75) 100% 
+    );
+    margin-top: 0%;
+    margin-left: 1%;
+    font-family: "Epilogue";
+}
+
+.logo_top {
+    width: 20vh;
+    height: 20vh
+}
+
+.text_top {
+
+    display: inline-block;
+    margin-left: 2vw;
+}
+
+.top_bar_description {
+    margin-top: 3.5vw;
+    margin-bottom: 0.5vw;
+    font-size: 5vh;
+}
+
+
+.catch_phrase {
+    font-family: "Epilogue Light";
+    font-size: 2.3vh;
+    margin-bottom: 0vw;
+    margin-left: 2vw;
+    margin-top: 0%;
+
+}
+
+.line {
+    left: 2vw;
+    right: 2vw;
+    border: 0;
+
+    width: 96vw;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.10), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.10));
+    margin-bottom: 25vh;
+}
+
+.title {
+    font-size: 7vh;
+    margin-bottom: 5vh;
+}
+
+.quote {
+    font-size: 3.5vh;
+    margin-bottom: 40vh;
+}
+
+.about_title {
+    font-size: 5vh;
+    margin-right: 10vw;
+}
+
+.info {
+    font-size: 3vh;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-bottom: 20vh;
+}
