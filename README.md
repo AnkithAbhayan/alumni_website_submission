@@ -1,5 +1,6 @@
 # Documentation
 ![website banner](assets/banner.JPG "website banner") 
+- What you're reading right now is the documentation for the website, if you aren't viewing this through a markdown viewer, access this link https://github.com/AnkithAbhayan/alumni_website_submission/blob/main/README.md to view it the way its intended to be viewed.
 ## Built by the hunterwolf developers
 ### Team Members:  
 - Ankith Abhayan  
